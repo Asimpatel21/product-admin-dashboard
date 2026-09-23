@@ -1,5 +1,8 @@
 # Product Admin Dashboard
 
+## Live Demo
+🔗 https://product-admin-dashboard-xxxx.vercel.app
+
 A small admin dashboard built with **Next.js (Pages Router)**, **React**, **Tailwind CSS**, and **Axios**, using the free [DummyJSON](https://dummyjson.com) API.
 
 ## Setup
